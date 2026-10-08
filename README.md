@@ -493,27 +493,6 @@ The system was tested for:
 
 ---
 
-# 🎥 Demonstration
-
-### 60-Second Demo
-
-The demonstration video showcases:
-
-1. STM32F407 vehicle hardware
-2. Bluetooth-controlled movement
-3. Forward/reverse/left/right commands
-4. PWM speed control
-5. Smooth stopping and direction change
-6. Automatic headlights
-7. LCD status display
-8. Accelerometer interface
-9. Register-level firmware implementation
-
-**Demo Video:**  
-`[Add YouTube/LinkedIn video link here]`
-
----
-
 # 📊 Key Embedded Concepts Demonstrated
 
 - ARM Cortex-M4 architecture
